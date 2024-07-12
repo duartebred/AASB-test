@@ -1,6 +1,6 @@
 # AASB-test
 
-Este repositório contém a resolução proposta pelo aluno Duarte Velho (PG3481), do teste da UC Algoritmos para Análise de Sequências Biológicas, do Mestrado em Bioinformática da Universidade do Minho (2023/24), providenciado pelo Professor Rui Mendes.
+Este repositório contém a resolução proposta pelo aluno Duarte Velho (PG3481), do teste da UC Algoritmos para Análise de Sequências Biológicas, do Mestrado em Bioinformática da Universidade do Minho (2023/24), providenciado pelo Professor Rui Mendes. Teste avaliado em 18,5 valores.
 
 É possível encontrar duas pastas:
   1. G1 contendo a resolução do grupo 1, e
